@@ -32,8 +32,37 @@ The script will be executed.
   - And within minutes you will have more commits than you had before.
   
   The repository will come out looking like this so might wanna make it private
-  
 
+## Screenshot
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+
+   ![1](https://raw.githubusercontent.com/Rian010/Python-Git-commit-bot/main/asset/Screenshot1.png)
+   
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+   
+   ![2](https://raw.githubusercontent.com/Rian010/Python-Git-commit-bot/main/asset/Screenshot2.png)
+   
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+   
+   ![3](https://raw.githubusercontent.com/Rian010/Python-Git-commit-bot/main/asset/Screenshot3.png)
+   
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+   
+   ![4](https://raw.githubusercontent.com/Rian010/Python-Git-commit-bot/main/asset/Screenshot4.png)
+   
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+   
+   ![5](https://raw.githubusercontent.com/Rian010/Python-Git-commit-bot/main/asset/Screenshot5.png)
+   
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+   
+   ![6](https://raw.githubusercontent.com/Rian010/Python-Git-commit-bot/main/asset/Screenshot6.png)
+   
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+
+   ![7](https://raw.githubusercontent.com/Rian010/Python-Git-commit-bot/main/asset/Screenshot7.png)
+   
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 ##  Notes:
   - I made this purely for learning purposes and out of curiosity. 
