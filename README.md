@@ -16,7 +16,7 @@ To run the script type the following commands in CMD:
 git clone https://github.com/Rian010/Python-Git-commit-bot.git
 ```
 ```
-cd Git-commit-bot
+cd Python-Git-commit-bot
 ```
 ```
 python commitbot.py
